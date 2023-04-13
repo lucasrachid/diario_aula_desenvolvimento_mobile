@@ -58,3 +58,22 @@ Repositorio: https://github.com/lucasrachid/flutter_rotas
 
 Repositório do Projeto que foi iniciado: https://github.com/lucasrachid/project_flutter
 Embora iniciado o projeto, ainda não tem implementações.
+
+Atividade 13/04
+Faltei, porém defini o projeto que gostaria de fazer
+Seria um aplicativo para gerenciar automóveis dentro de uma Oficina, contendo as seguintes telas:
+1 - Login (Acesso)
+2 - Registro (Cadastro ao Aplicativo)
+3 - Esqueceu sua Senha (Recuperação de Conta)
+4 - Cadastrar veículos 
+5 - Uma listagem dos veículos cadastrados na Oficina
+6 - Informações específicas de um veículo (Após listar, poderia selecionar um veículo, onde iria apresentar os dados do veículo e foto)
+7 - Agendamento Serviços (Tela onde poderia agendar o Serviço)
+8 - Listar relatório dos serviços prestados (Tela onde iria apresentar uma listagem das ordens de serviços da Oficina)
+9 - Cadastro de peças para armazenar na Oficina
+10 - Listagem de peças e ferramentas da Oficina
+Escolhi esse escopo de projeto, pois não vi ninguém fazendo e penso ter alguma utilidade, não somente acadêmica, mas comercial, visto que 
+hoje não existe muitos aplicativos que façam isso. Existe sim diversas plataformas online desktop, mas gostaria de estar facilitando ainda
+mais a gestão de uma oficina.
+
+
