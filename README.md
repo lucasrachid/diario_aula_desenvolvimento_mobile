@@ -75,5 +75,8 @@ Seria um aplicativo para gerenciar automóveis dentro de uma Oficina, contendo a
 Escolhi esse escopo de projeto, pois não vi ninguém fazendo e penso ter alguma utilidade, não somente acadêmica, mas comercial, visto que<br>
 hoje não existe muitos aplicativos que façam isso. Existe sim diversas plataformas online desktop, mas gostaria de estar facilitando ainda<br>
 mais a gestão de uma oficina.<br>
-
-https://github.com/lucasrachid/Mech-Manager
+Link projeto: https://github.com/lucasrachid/Mech-Manager
+Nem todas as telas estão com botão direto na home. Algumas como Informação do carro, é acessado através de outra tela. <br>
+Exemplo ao iniciar o app, ir para a home, terá o botão para listagem do carro. Quando você adiciona um veículo a lista <br>
+irá incluir o registro na lista, te dando duas ações, 1 de exluir o registro e outra para ir para Info do Veículo, está <br>
+segunda opção, irá redirecionar a uma nova rota/widget.
