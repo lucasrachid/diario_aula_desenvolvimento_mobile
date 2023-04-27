@@ -76,4 +76,4 @@ Escolhi esse escopo de projeto, pois não vi ninguém fazendo e penso ter alguma
 hoje não existe muitos aplicativos que façam isso. Existe sim diversas plataformas online desktop, mas gostaria de estar facilitando ainda<br>
 mais a gestão de uma oficina.<br>
 
-
+https://github.com/lucasrachid/Mech-Manager
