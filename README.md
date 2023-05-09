@@ -80,3 +80,22 @@ Nem todas as telas estão com botão direto na home. Algumas como Informação d
 Exemplo ao iniciar o app, ir para a home, terá o botão para listagem do carro. Quando você adiciona um veículo a lista <br>
 irá incluir o registro na lista, te dando duas ações, 1 de exluir o registro e outra para ir para Info do Veículo, está <br>
 segunda opção, irá redirecionar a uma nova rota/widget.
+
+Atividade aula 09/05
+1º atividade @@@@ atividade diário de aula
+definir 1 campo sobrenome e mostrar o nome e sobrenome no clique
+definir 1 campo de sua preferência mostra todos os valores no clique
+definir um DTO, inserir os valores dos campos nos atributos e no clique do botão mostrar o DTO
+https://docs.flutter.dev/cookbook/forms @@@@ Widgets Quais widgets trabalhamos? R = scaffold, AppBar, Form, Column, TextFormField, Text, ElevatedButtor.
+Dentro desses widgets, foi utilizado Key FormState para capturar o formulario, Controller e DTO para trabalhar com o dado.
+
+Repositorio da atividade realizada em aula: XXXXXXXXXXXXX
+O que é e para que serve a key de uma widget? Qual a vantegem de ser tipado?
+R: O Flutter, é dividido em uma árvore de widgets, sendo necessário uma key para identificar o widget que você deseja capturar.
+
+Definir exemplos práticos e comentários de uso.
+
+Trabalhando com formulários passivos.
+Realizar a captura e validação de inputz, dentro de um widget TextField.
+restrições (validador, keyboardType, maxLength, inputFormatters, RegExp, outros)
+O que é plugin? Para que serve? → o que é? vantagens e desvantagens. → O que é pub.dev? Como funciona? → Como escolher um plugin? Justifique. → exemplo de como utilizar/configurar o projeto com explicações passo a passo. componetização → sintaxe → vantagens/desvantagens → POO
