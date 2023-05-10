@@ -81,21 +81,29 @@ Exemplo ao iniciar o app, ir para a home, terá o botão para listagem do carro.
 irá incluir o registro na lista, te dando duas ações, 1 de exluir o registro e outra para ir para Info do Veículo, está <br>
 segunda opção, irá redirecionar a uma nova rota/widget.
 
-Atividade aula 09/05
-1º atividade @@@@ atividade diário de aula
-definir 1 campo sobrenome e mostrar o nome e sobrenome no clique
-definir 1 campo de sua preferência mostra todos os valores no clique
-definir um DTO, inserir os valores dos campos nos atributos e no clique do botão mostrar o DTO
-https://docs.flutter.dev/cookbook/forms @@@@ Widgets Quais widgets trabalhamos? R = scaffold, AppBar, Form, Column, TextFormField, Text, ElevatedButtor.
-Dentro desses widgets, foi utilizado Key FormState para capturar o formulario, Controller e DTO para trabalhar com o dado.
+Atividade aula 09/05<br>
+1º atividade @@@@ atividade diário de aula<br>
+definir 1 campo sobrenome e mostrar o nome e sobrenome no clique<br>
+definir 1 campo de sua preferência mostra todos os valores no clique<br>
+definir um DTO, inserir os valores dos campos nos atributos e no clique do botão mostrar o DTO<br>
+https://docs.flutter.dev/cookbook/forms @@@@ Widgets Quais widgets trabalhamos? R = scaffold, AppBar, Form, Column, TextFormField, Text, ElevatedButtor.<br>
+Dentro desses widgets, foi utilizado Key FormState para capturar o formulario, Controller e DTO para trabalhar com o dado.<br>
 
-Repositorio da atividade realizada em aula: https://github.com/lucasrachid/aula_09_maio_desenv_moveis
-O que é e para que serve a key de uma widget? Qual a vantegem de ser tipado?
-R: O Flutter, é dividido em uma árvore de widgets, sendo necessário uma key para identificar o widget que você deseja capturar.
+Repositorio da atividade realizada em aula: https://github.com/lucasrachid/aula_09_maio_desenv_moveis<br>
+O que é e para que serve a key de uma widget? Qual a vantegem de ser tipado?<br>
+R: O Flutter, é dividido em uma árvore de widgets, sendo necessário uma key para identificar o widget que você deseja capturar.<br>
 
-Definir exemplos práticos e comentários de uso.
+Definir exemplos práticos e comentários de uso.<br>
 
-Trabalhando com formulários passivos.
-Realizar a captura e validação de inputz, dentro de um widget TextField.
-restrições (validador, keyboardType, maxLength, inputFormatters, RegExp, outros)
-O que é plugin? Para que serve? → o que é? vantagens e desvantagens. → O que é pub.dev? Como funciona? → Como escolher um plugin? Justifique. → exemplo de como utilizar/configurar o projeto com explicações passo a passo. componetização → sintaxe → vantagens/desvantagens → POO
+Trabalhando com formulários passivos.<br>
+Realizar a captura e validação de inputz, dentro de um widget TextField.<br>
+restrições (validador, keyboardType, maxLength, inputFormatters, RegExp, outros)<br>
+O que é plugin? Para que serve? → o que é? vantagens e desvantagens.<br>
+Plugins são implementações prontas que você pode utilizar em seu projeto, que pode acelerar o processo de desenvolvimento, como por exemplo<br>
+plugin utilizado em sala, para realizar a máscara de CPF. Pode trazer vantagens, como acelerar o processo de desenvolvimento, ou desvantagens<br>
+como por exemplo ficar refém de um plugin de terceiros, uma vez que podem ser vunerávies e não terem mais atualizações.<br>
+→ O que é pub.dev? Como funciona? <br>
+Pub dev é o site oficial do Flutter, onde a comunidade compartilha plugins, documentações, entre outros.<br>
+→ Como escolher um plugin? Justifique. → exemplo de como utilizar/configurar o projeto com explicações passo a passo. componetização → sintaxe → vantagens/desvantagens → POO<br>
+A escolha de um plugin vai variar muito de acordo a necessidade de seu projeto. Variando da dificuldade que possa ser realizar uma implementação nativa<br>
+
