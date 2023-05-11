@@ -107,3 +107,11 @@ Pub dev é o site oficial do Flutter, onde a comunidade compartilha plugins, doc
 → Como escolher um plugin? Justifique. → exemplo de como utilizar/configurar o projeto com explicações passo a passo. componetização → sintaxe → vantagens/desvantagens → POO<br>
 A escolha de um plugin vai variar muito de acordo a necessidade de seu projeto. Variando da dificuldade que possa ser realizar uma implementação nativa<br>
 
+Atividade aula 11/05<br>
+Repositório: https://github.com/lucasrachid/aula_11_maio<br>
+Vantagens Banco Fake<br>
+Trabalho em equipe<br>
+Isolamento de problemas<br>
+Agilizar o desenvolvimento<br>
+  
+DTO -> Desacoplar a aplicação da necessidade de uma tecnologia específica.<br>
