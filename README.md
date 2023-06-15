@@ -119,3 +119,52 @@ DTO -> Desacoplar a aplicação da necessidade de uma tecnologia específica.<br
 Atividade aula 01/06<br>
 Mesmo repositório da aula 11/05<br>
 Dando continuidade a conectar no banco com supabase.<br>
+
+Atividade aula 15/06<br>
+Projeto: Defini que seria para controle de uma auto mecânica, mas no meio do projeto<br>
+acabei perdendo interesse em desenvolver e ainda estou realmente em dúvida...<br>
+<br>
+(1) complexidade;<br> 
+Gostaria de fazer algo relacionado a jogos ou anime, inserindo, buscando <br>
+informações, logo penso que seja algo com uma complexidade média, ao menos<br>
+para o meu conhecimento atual.<br>
+(2) progresso;<br> 
+Iniciando um novo projeto, mas ainda estou definindo um escopo, de algo <br>
+que me interesse, pra me animar.<br>
+(3) dedicação (o que implementou fora da aula, diferente das aulas);<br> 
+Todas implementações realizadas em aula, com exceção da conexão com o banco<br>
+que estou fazendo em casa.<br>
+(4) periodicidade.<br>
+Semanalmente e como preciso dar um gás agora, fazer no final de semana.<br>
+<br>
+Desempenho aula: Durante as aulas onde tive presença, fiz o possível para o desenvolvimneto<br>
+do meu projeto.<br>
+<br>
+(1) presenças;<br> 
+Aqui estou pecando um pouco, porém teve duas semanas que eu estava mal de saúde<br>
+por isso não compareci.<br>
+(2) Horário;<br> 
+O horário da aula é 19:20, por conta dos meus compromissos, e serviço, dificilmente consigo<br>
+chegar exatamente no horário, sempre chegando em torno de 19:30 a 19:40.<br>
+(3) Produtividade.<br>
+Penso que poderia ser mais produtivo, mas como disse, eu não estava me sentindo animado com<br>
+o projeto que estava tocando, vou ver se alterando o escopo, dou um gás maior.<br>
+<br>
+Aprendizagem: Ao menos do que implementei efetivamente no meu projeto, penso ter entendido<br>
+lógico que durante o desenvolvimento aparecem dúvidas, mas que com um pouco de pesquisa<br>
+foi o suficiente para resolver.<br>
+<br>
+(1) conhecimento;<br>
+Para o conteúdo apresentado, penso ser mais que suficiente para dar início a um projeto real<br>
+como falei anteriormente, problemas de desenvolvimento sempre vão aparecer, mas que tendo a base<br>
+e os conceitos da linguagem, da para correr atrás e desenvolver.<br>
+(2) implementação sem ajuda/copiar/colar;<br>
+Grande parte da criação dos widgets, foi necessário ao menos a busca da documentação, para saber<br>
+de que forma os widgets se comportavam e parâmetros que poderiam ser passados a ele, bem como<br>
+o acesso ao banco de dados.<br>
+(3) fundamento;<br>
+As implementações realiadas, foram baseadas nos fundamentos e conceitos apresentados na matéria.<br>
+(4) validação contínua/assiduidade.<br>
+Vou validar hoje (15/06) com o professor a questão de alterar o escopo do projeto. Quanto as validações<br>
+em aula, sempre que compareci, apresentei os diários e o que havia feito no dia.<br>
+Valor orçamento: Estou almejando com a entrega do projeto conceito B.<br>
