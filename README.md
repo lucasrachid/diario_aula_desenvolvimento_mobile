@@ -115,3 +115,7 @@ Isolamento de problemas<br>
 Agilizar o desenvolvimento<br>
   
 DTO -> Desacoplar a aplicação da necessidade de uma tecnologia específica.<br>
+
+Atividade aula 01/06<br>
+Mesmo repositório da aula 11/05<br>
+Dando continuidade a conectar no banco com supabase.<br>
