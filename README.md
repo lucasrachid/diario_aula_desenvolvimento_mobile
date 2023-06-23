@@ -176,4 +176,5 @@ ao desenvolvimento. <br>
 Escopo do projeto, será relacionado a um cartão digital de fildelidade de produtos e serviços<br>
 Até o momento o projeto está utilizando Firebase para autenticação, com Login, Cadastro, Recuperação de senha<br>
 E Logout do usuário. 
-Nesse projeto a ideia é que o Usuário possa escanear um QR Code, para realizar a atualização de seu cartão fidelidade<br>
+Nesse projeto a ideia é que o Usuário possa escanear um QR Code, para realizar a atualização<br> 
+de seu cartão fidelidade<br>
