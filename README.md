@@ -168,3 +168,12 @@ As implementações realiadas, foram baseadas nos fundamentos e conceitos aprese
 Vou validar hoje (15/06) com o professor a questão de alterar o escopo do projeto. Quanto as validações<br>
 em aula, sempre que compareci, apresentei os diários e o que havia feito no dia.<br>
 Valor orçamento: Estou almejando com a entrega do projeto conceito B.<br>
+
+Atividade aula 23/06<br>
+Repositório: https://github.com/lucasrachid/e_card_loyalty<br>
+Não pude comparecer a aula por motivos de saúde, porém defini o escopo do projeto e já dei início<br>
+ao desenvolvimento. <br>
+Escopo do projeto, será relacionado a um cartão digital de fildelidade de produtos e serviços<br>
+Até o momento o projeto está utilizando Firebase para autenticação, com Login, Cadastro, Recuperação de senha<br>
+E Logout do usuário. 
+Nesse projeto a ideia é que o Usuário possa escanear um QR Code, para realizar a atualização de seu cartão fidelidade<br>
